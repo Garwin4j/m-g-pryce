@@ -1,26 +1,17 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+This README.md file is displayed on your project page. You should edit this 
+file to describe your project, including instructions for building and 
+running the project, pointers to the license under which you are making the 
+project available, and anything else you think would be useful for others to
+know.
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+We have created an empty license.txt file for you. Well, actually, it says,
+"<Replace this text with the license you've chosen for your project.>" We 
+recommend you edit this and include text for license terms under which you're
+making your code available. A good resource for open source licenses is the 
+[Open Source Initiative](http://opensource.org/).
 
-## Getting Started
+Be sure to update your project's profile with a short description and 
+eye-catching graphic.
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+Finally, consider defining some sprints and work items in Track & Plan to give 
+interested developers a sense of your cadence and upcoming enhancements.
